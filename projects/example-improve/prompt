@@ -2,7 +2,7 @@
  * Inverts the direction arrows so that up moves the snake down, and down moves the snake up.
  */
 // Invert the direction arrows: up -> down, down -> up
-const direction = 'up';
+let direction = 'up';
 if (direction === 'up') {
     direction = 'down';
 } else if (direction === 'down') {
