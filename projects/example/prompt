@@ -1,1 +1,8 @@
-We are writing snake in python. MVC components split in separate files. Keyboard control.
+# FILEPATH: /c:/Users/legar/gpt-engineer/projects/example/prompt
+
+"""
+This code represents a snake game written in Python.
+The game follows the Model-View-Controller (MVC) architectural pattern,
+with the components split into separate files.
+It also includes keyboard control for the snake movement.
+"""

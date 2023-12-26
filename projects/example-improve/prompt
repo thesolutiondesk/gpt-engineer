@@ -1,1 +1,10 @@
-Invert the direction arrows so up moves the snake down, and down moves the snake up.
+/**
+ * Inverts the direction arrows so that up moves the snake down, and down moves the snake up.
+ */
+// Invert the direction arrows: up -> down, down -> up
+const direction = 'up';
+if (direction === 'up') {
+    direction = 'down';
+} else if (direction === 'down') {
+    direction = 'up';
+}
